@@ -276,7 +276,7 @@ def main():
             return False
         
         # 4. 上传到API
-        user_name = "tmate_session"  # 默认文件名，无需交互
+        user_name = "USAfree"  # 默认文件名，无需交互
         
         if not manager.upload_to_api(user_name):
             return False

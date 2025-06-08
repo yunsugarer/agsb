@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "USAfree"         # 用户名
 UUID = "112a1e61-9950-4973-a6aa-7b9646c5e959"                     # UUID，留空则自动生成
 PORT = 53953                   # Vmess端口，留空或0则自动生成
-DOMAIN = "ces.chnn.dpdns.orgt"                   # 域名，留空则自动获取
+DOMAIN = "ces.chnn.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZTUzZmEwNjUxMjE2YWM3YjI1MGQwYjRiNTgwMTg5NjIiLCJ0IjoiNzA4M2U0OGQtMTI5NC00MDBjLWE4ZTYtYjI3NzFlYzgxM2UzIiwicyI6Ik9XTmlabVJqTTJFdE5UTTJNUzAwWTJWa0xUazNOV0l0T0RVMU0yUTFOMkl6TnpReiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
